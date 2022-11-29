@@ -3,6 +3,8 @@ Traductor de instrucciones RISC-V de ensamblador a Hexadecimal
 
 Ingeniería en computación
 
+Universidad Tecnologica de la Mixteca (UTM)
+
 Asignatura: Arquitectura de computadoras
 
 Quinto Semestre   Grupo: 502-A
