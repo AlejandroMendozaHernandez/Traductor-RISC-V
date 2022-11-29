@@ -10,6 +10,9 @@ Quinto Semestre   Grupo: 502-A
 Integrantes del equipo:
 
 González Román Laura
+
 Rodriguez Gomez Cristian
+
 Marvin Salvador Bacilio Anota
+
 Mendoza Hernandez Alejandro
