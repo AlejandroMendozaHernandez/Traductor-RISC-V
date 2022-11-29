@@ -1,0 +1,35 @@
+body{
+  background-color: pink;
+  margin: 0 auto;
+  padding-top: 60px;
+  padding-right: 60px;
+  padding-bottom: 60px;
+  padding-left: 26px;
+  box-sizing: border-box;
+  border: 58px solid rgb(172, 14, 14);
+  width: 1280px;
+  height: 720px;
+  font-size: 30px;
+  position: absolute;
+  top: 50px;
+  font: bold 150% Courier;
+}
+
+p{
+  font-size: 40px;
+  font: bold 70% Courier;
+  position: absolute;
+}
+html{
+  background-color: rgb(207, 255, 192);
+  margin: 0 auto;
+  padding: 2em;
+  border: 58px solid rgb(172, 14, 14);
+  width: 1280px;
+  height: 720px;
+  font-size: 30px;
+  position: relative;
+  top: 250px;
+ 
+}
+
