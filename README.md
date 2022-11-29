@@ -19,7 +19,7 @@ Mendoza Hernandez Alejandro
 
 # INSTRUCCIONES
 
-Ejecute el archivo traductor.html
+Ejecute el archivo "traductor.html"
 
 Inserte la instruccion RISC-V en ensamblador siguiendo la estructura de la operacion
 
