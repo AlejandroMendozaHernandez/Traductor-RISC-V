@@ -16,3 +16,11 @@ Rodriguez Gomez Cristian
 Marvin Salvador Bacilio Anota
 
 Mendoza Hernandez Alejandro
+
+# INSTRUCCIONES
+
+Ejecute el archivo traductor.html
+
+Inserte la instruccion RISC-V en ensamblador siguiendo la estructura de la operacion
+
+Presione "traducir" y se mostrará en pantalla el resultado en Hexadecimal
